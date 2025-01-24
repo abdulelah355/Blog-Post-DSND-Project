@@ -12,11 +12,11 @@ This project analyzes trends in developer tools, technologies, and compensation 
 
 A non-technical summary of this project is available in a blog post:
 
-**Blog Title**: Empowering Developer Insights with Data
+**Blog Title**: Developer Insights and Compensation: Navigating the Tech Landscape
 
-[Add link to your Medium or personal blog here.]
+[Read the full blog post on Medium](https://medium.com/@abdulelahalkhelaifi1/developer-insights-and-compensation-navigating-the-tech-landscape-d3655a393cac)
 
-The post is tailored to a non-technical audience, highlighting key findings, visuals, and actionable business takeaways without delving into technical implementation details.
+This post is tailored for a non-technical audience, highlighting key findings, visuals, and actionable business takeaways without delving into technical implementation details.
 
 ## Repository Contents
 
